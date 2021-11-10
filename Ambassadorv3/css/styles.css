@@ -1,10 +1,10 @@
 html {
     box-sizing:border-box;
-    background-color: #eeb20c;
     overflow-y: scroll;
     background: url("../assetts/ambmur.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #eeb20c;
 }
 
 *, *:before, *:after {
