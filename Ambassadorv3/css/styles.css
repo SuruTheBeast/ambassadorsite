@@ -2,6 +2,9 @@ html {
     box-sizing:border-box;
     background-color: #eeb20c;
     overflow-y: scroll;
+    background: url=("../assetts/mural1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 *, *:before, *:after {
