@@ -2,7 +2,7 @@ html {
     box-sizing:border-box;
     background-color: #eeb20c;
     overflow-y: scroll;
-    background-image: url("../assetts/ambmur.jpg");
+    background-image: url(../assetts/ambmur.jpg);
 }
 
 *, *:before, *:after {
