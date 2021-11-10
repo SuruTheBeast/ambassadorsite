@@ -2,7 +2,7 @@ html {
     box-sizing:border-box;
     background-color: #eeb20c;
     overflow-y: scroll;
-    background-image: url=("../assetts/mural1.png");
+    background-image: url=("../assetts/ambmural.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
